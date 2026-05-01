@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.7",
-    "url":  "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.7.exe",
-    "sha256":  "8F5B679AEC0A2100BD398F59CF4C9D3FB5B93E73D228524AC637F9B9347F8C08",
-    "releaseNotes":  "v1.2.7 surumu yayinlandi.",
+    "version":  "1.2.8",
+    "url":  "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.8.exe",
+    "sha256":  "CD1197E6241D4AC318BF920E1E525F4FCFE19E330D1BFA708D7C2DF037CDC52A",
+    "releaseNotes":  "v1.2.8 surumu yayinlandi.",
     "mandatory":  false,
-    "releaseDate":  "2026-04-30"
+    "releaseDate":  "2026-05-02"
 }
