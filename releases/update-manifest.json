@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.18",
-    "url":  "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.18.exe",
+    "version":  "1.2.19",
+    "url":  "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.19.exe",
     "fallbackUrls":  [
-                         "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.18.exe"
+                         "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.19.exe"
                      ],
-    "sha256":  "C4CAB956E3037344E9BCDE5C2B1AB68ED231169FFE02C723532D5D29FA02165C",
-    "releaseNotes":  "Idefix baglanti testi kategori servisine alindi; marka indirme brand servisinde parametresiz deneme ile guncellendi.",
+    "sha256":  "D30D79E467E50E1EF26FB10009F3E38E55F4803E06F32C44990CE2DD3B0B6C95",
+    "releaseNotes":  "Trendyol urun ozellikleri paneline kaydirma cubugu eklendi; sevk ve iade adresleri APIden otomatik yukleniyor; Trendyol KDV varsayilani 10 yapildi.",
     "mandatory":  false,
     "releaseDate":  "2026-05-05"
 }
