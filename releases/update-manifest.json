@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.12",
-    "url":  "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.12.exe",
+    "version":  "1.2.13",
+    "url":  "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.13.exe",
     "fallbackUrls":  [
-                         "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.12.exe"
+                         "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.13.exe"
                      ],
-    "sha256":  "A05263AF70C7E98C7847381F9F6B389E7A8F045EAB83B7C7A6D9120F340EE82B",
-    "releaseNotes":  "v1.2.12 surumu yayinlandi.",
+    "sha256":  "5F846050F975100041666CB08EDB2AB534DE5735CC5081FAB127C4E7FE24A3AB",
+    "releaseNotes":  "v1.2.13 surumu yayinlandi.",
     "mandatory":  false,
     "releaseDate":  "2026-05-04"
 }
