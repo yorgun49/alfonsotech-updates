@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.17",
-    "url":  "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.17.exe",
+    "version":  "1.2.18",
+    "url":  "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.18.exe",
     "fallbackUrls":  [
-                         "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.17.exe"
+                         "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.18.exe"
                      ],
-    "sha256":  "16F2B797C7205BB482CC0EE027E456193393DD0F2F793F138DD2585BAEAEBE2E",
-    "releaseNotes":  "v1.2.17 surumu yayinlandi.",
+    "sha256":  "C4CAB956E3037344E9BCDE5C2B1AB68ED231169FFE02C723532D5D29FA02165C",
+    "releaseNotes":  "Idefix baglanti testi kategori servisine alindi; marka indirme brand servisinde parametresiz deneme ile guncellendi.",
     "mandatory":  false,
     "releaseDate":  "2026-05-05"
 }
