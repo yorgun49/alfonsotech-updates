@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.16",
-    "url":  "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.16.exe",
+    "version":  "1.2.17",
+    "url":  "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.17.exe",
     "fallbackUrls":  [
-                         "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.16.exe"
+                         "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.17.exe"
                      ],
-    "sha256":  "DC41DB182C51E22044B2A398CA9C54B59C7DC28FF041B93969105E5758D53E9F",
-    "releaseNotes":  "Idefix marka indirme endpointi duzeltildi; urun formuna Idefix pazaryeri sekmesi ve kategori nitelikleri eklendi.",
+    "sha256":  "16F2B797C7205BB482CC0EE027E456193393DD0F2F793F138DD2585BAEAEBE2E",
+    "releaseNotes":  "v1.2.17 surumu yayinlandi.",
     "mandatory":  false,
     "releaseDate":  "2026-05-05"
 }
