@@ -4,8 +4,8 @@
     "fallbackUrls":  [
                          "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.19.exe"
                      ],
-    "sha256":  "D30D79E467E50E1EF26FB10009F3E38E55F4803E06F32C44990CE2DD3B0B6C95",
-    "releaseNotes":  "Trendyol urun ozellikleri paneline kaydirma cubugu eklendi; sevk ve iade adresleri APIden otomatik yukleniyor; Trendyol KDV varsayilani 10 yapildi.",
+    "sha256":  "8B078D6FE03C7416FA441B912C2D7FF966DB5D4E87EC1BAC68B81BB731003642",
+    "releaseNotes":  "v1.2.19 surumu yayinlandi.",
     "mandatory":  false,
     "releaseDate":  "2026-05-05"
 }
