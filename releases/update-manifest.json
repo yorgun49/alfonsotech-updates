@@ -4,7 +4,7 @@
     "fallbackUrls":  [
                          "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.22.exe"
                      ],
-    "sha256":  "5BEBB39B85BC3A28314C8DE632ED1465EEAFDF358C8BBD1381EBD296667D863A",
+    "sha256":  "A95DE5A56D572F91A58DA30DDC0326C4CBE461746917A07ADB3DCE7F39333AD5",
     "releaseNotes":  "v1.2.22 surumu yayinlandi.",
     "mandatory":  false,
     "releaseDate":  "2026-05-11"
