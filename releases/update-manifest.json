@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.33",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.33.exe",
+    "version":  "1.2.34",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.34.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.33.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.34.exe"
                      ],
-    "sha256":  "DAF7AD82E0B9662B64A0D5C28FFC2388B549FF599EEFF55422CE6A1D4767C2D7",
-    "releaseNotes":  "SQLite staging release candidate",
+    "sha256":  "93B7EADD2D4E1AF7232DDADAE71158C678C0DB843253AE44BC8EA852A16735DE",
+    "releaseNotes":  "SQLite schema hotfix for staging upgrade",
     "mandatory":  false,
     "releaseDate":  "2026-06-03",
     "dryRun":  false,
