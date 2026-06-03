@@ -1,10 +1,10 @@
 ﻿{
-    "version":  "1.2.32",
-    "url":  "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.32.exe",
+    "version":  "1.2.33",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.33.exe",
     "fallbackUrls":  [
-                         "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.32.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.33.exe"
                      ],
-    "sha256":  "4A4BFB35A111EA709AFE942C7CA75BD9C795E86D042F8915F86743B4A173C5E7",
+    "sha256":  "DAF7AD82E0B9662B64A0D5C28FFC2388B549FF599EEFF55422CE6A1D4767C2D7",
     "releaseNotes":  "SQLite staging release candidate",
     "mandatory":  false,
     "releaseDate":  "2026-06-03",
