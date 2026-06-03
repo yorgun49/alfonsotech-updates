@@ -4,7 +4,7 @@
     "fallbackUrls":  [
                          "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.34.exe"
                      ],
-    "sha256":  "93B7EADD2D4E1AF7232DDADAE71158C678C0DB843253AE44BC8EA852A16735DE",
+    "sha256":  "4D87EACCD162EA87B0D246A0416BB343DE8669D870A944498AC4C827BBC3C652",
     "releaseNotes":  "SQLite schema hotfix for staging upgrade",
     "mandatory":  false,
     "releaseDate":  "2026-06-03",
