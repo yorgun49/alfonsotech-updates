@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.95",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.95.exe",
+    "version":  "1.2.96",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.96.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.95.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.96.exe"
                      ],
-    "sha256":  "5D0E936BD4F1BBC05E8104F4F3EF8251D6969D1D1EEC142603ACC75FE16F0F81",
-    "releaseNotes":  "Fatura adresi teslimat adresinden ayri cekiliyor (N11, Hepsiburada, Idefix tamamlandi; Trendyol zaten vardi).",
+    "sha256":  "66AB098ABC61F9625AC2CA517A689824070540C36721E5E61FF902851B50C098",
+    "releaseNotes":  "Siparis listesine \u0027Fatura Adresi\u0027 sutunu eklendi (teslimat ile ayniysa belirtiliyor).",
     "mandatory":  false,
     "releaseDate":  "2026-06-09",
     "dryRun":  false,
