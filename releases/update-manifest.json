@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.84",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.84.exe",
+    "version":  "1.2.85",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.85.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.84.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.85.exe"
                      ],
-    "sha256":  "3B0D19A45225ECA62797154BB407B4FCCF1E871174C2FFEE6F8E7861D60F0856",
-    "releaseNotes":  "e-Arsiv UBL: zorunlu SendingType (ELEKTRONIK) AdditionalDocumentReference eklendi (Sematron hatasi).",
+    "sha256":  "F08C71CE749CCD1DB410B99F7F309EB39334CE89E8756637D42F4DDB78192ECB",
+    "releaseNotes":  "e-Arsiv SendingType referansina DocumentType eklendi (DigitalPlanet sematron \u0027DocumentType Not Found\u0027).",
     "mandatory":  false,
     "releaseDate":  "2026-06-08",
     "dryRun":  false,
