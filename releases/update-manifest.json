@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.82",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.82.exe",
+    "version":  "1.2.83",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.83.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.82.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.83.exe"
                      ],
-    "sha256":  "D46AED9F81C4C0B084FB221FB6224331CF080443999C1CEDCEA39EB79C3B9F2D",
-    "releaseNotes":  "Satici kimlik alani 11 haneli TCKN de kabul ediyor.",
+    "sha256":  "5D673129B2B2391DBBD5659A3DEB711F533F659B39DA51E2C9CD903FB0F5D2D5",
+    "releaseNotes":  "E-Fatura: satici 11 haneli TCKN (sahis) destegi - motor 11 haneye izin veriyor + UBL schemeID TCKN/VKN otomatik.",
     "mandatory":  false,
     "releaseDate":  "2026-06-08",
     "dryRun":  false,
