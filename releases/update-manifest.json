@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.64",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.64.exe",
+    "version":  "1.2.65",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.65.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.64.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.65.exe"
                      ],
-    "sha256":  "462087F5FCC38D94BD99183E4D3BF89BB0F133CAE26650D27F7B5951CFD1873C",
-    "releaseNotes":  "Otomatik Eslestir artik 4 pazaryerini (Trendyol, N11, HB, Idefix) eslestiriyor.",
+    "sha256":  "77CF61EE9C794542A5EFFAE2E1B98BFB1B81C96C234A1D5F611528DBD1B2D8BD",
+    "releaseNotes":  "Trendyol urun cekme duzeltildi: id alani String gelince patlamasi giderildi (0 urun bug).",
     "mandatory":  false,
     "releaseDate":  "2026-06-08",
     "dryRun":  false,
