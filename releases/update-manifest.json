@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.78",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.78.exe",
+    "version":  "1.2.79",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.79.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.78.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.79.exe"
                      ],
-    "sha256":  "350C6DE02F18789640B082476469A9CE1CFC1A3198904C502AC832C94F3429D1",
-    "releaseNotes":  "Gorsel: BitmapImage CreateOptions=IgnoreImageCache kaldirildi (WPF StreamSource bug\u0027i) - gorseller artik geliyor.",
+    "sha256":  "6980538F3C2262910D15D9E62C4C67B50A27B357B454C785825FD6919A68C7DA",
+    "releaseNotes":  "Cekilenleri Sil: silinen urunlerin outbox mesajlari da temizleniyor (stale ProductPush dead-letter onlendi).",
     "mandatory":  false,
     "releaseDate":  "2026-06-08",
     "dryRun":  false,
