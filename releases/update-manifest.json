@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.69",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.69.exe",
+    "version":  "1.2.70",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.70.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.69.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.70.exe"
                      ],
-    "sha256":  "108918FA18C64B89A04227FC7B24DCA0F086F0673AEE4412E89DB48D0EC146D0",
-    "releaseNotes":  "v1.2.69 surumu yayinlandi.",
+    "sha256":  "592CA9CC55768F1A50AE51532B84129A1E70733E81CB7FA3A544ECF5A102AF7F",
+    "releaseNotes":  "Durum cubugu duzeltildi: ikon fontu kaldirildi (kutu/tofu karakter sorunu giderildi).",
     "mandatory":  false,
     "releaseDate":  "2026-06-08",
     "dryRun":  false,
