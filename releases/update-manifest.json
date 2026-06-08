@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.81",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.81.exe",
+    "version":  "1.2.82",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.82.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.81.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.82.exe"
                      ],
-    "sha256":  "699228319042D548DE63BE4009AC3A0AED9EDEE36B51014292A21E31EDE9A824",
-    "releaseNotes":  "E-Fatura: MapCode/TemplateCode ayardan girilebilir + DigitalPlanet ham yanit teshis log.",
+    "sha256":  "D46AED9F81C4C0B084FB221FB6224331CF080443999C1CEDCEA39EB79C3B9F2D",
+    "releaseNotes":  "Satici kimlik alani 11 haneli TCKN de kabul ediyor.",
     "mandatory":  false,
     "releaseDate":  "2026-06-08",
     "dryRun":  false,
