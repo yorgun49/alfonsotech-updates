@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.2.88",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.88.exe",
+    "version":  "1.2.89",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.89.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.88.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.89.exe"
                      ],
-    "sha256":  "1555B9EB762FC5DBCE85CCD8AFF59A69A66503A100CF8AC5A777F5B22F8E46E0",
-    "releaseNotes":  "e-Arsiv fatura: gecerli GIB amblemi varsayilan logo olarak gomuldu (ozel logo belgeler/logo.jpg ile gecersiz kilinabilir).",
+    "sha256":  "BD20AF16E4B18AC50AD986FDEAAD2765252D9DC77EDC11E4CF4EB34736518E58",
+    "releaseNotes":  "Fatura: musteri kutusu satici gibi ust+alt cizgi yapildi; footer\u0027a e-Arsiv/Digital Planet aciklamalari eklendi.",
     "mandatory":  false,
-    "releaseDate":  "2026-06-08",
+    "releaseDate":  "2026-06-09",
     "dryRun":  false,
     "signed":  true
 }
