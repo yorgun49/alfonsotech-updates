@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.71",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.71.exe",
+    "version":  "1.2.72",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.72.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.71.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.72.exe"
                      ],
-    "sha256":  "D3337BC314A34D71532268061ACFBAF739919CECA517145FE40663020D78F449",
-    "releaseNotes":  "Cift-tik ile urun formu acma, gorsel placeholder duzeltme, Trendyol varyant (Renk/Numara) yakalama.",
+    "sha256":  "44C8A4F1A9043FF7418A1A048FF8934C975BBD7980CF1B193D64D14C315540A0",
+    "releaseNotes":  "Arama cubugu calisir hale getirildi (urun adi/barkod/stok kodu/marka filtresi); liste yazisi inceltilip italik yapildi.",
     "mandatory":  false,
     "releaseDate":  "2026-06-08",
     "dryRun":  false,
