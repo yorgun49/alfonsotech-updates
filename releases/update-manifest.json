@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.92",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.92.exe",
+    "version":  "1.2.93",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.93.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.92.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.93.exe"
                      ],
-    "sha256":  "115C90DFF66D62E609856BDA39154CB5C518499F00B78F59B0FFA988A5789A0E",
-    "releaseNotes":  "Iptal edilmis fatura: DigitalPlanet durum sorgusu (CheckEArchiveInvoiceState) ile iptal tespit edilip taze numarayla yeniden kesiliyor; aktifse benimseniyor.",
+    "sha256":  "2A6F3C18C4443971776327DCF24D93013348A3DCF5C9F42E66A2ED1EBE676731",
+    "releaseNotes":  "Fatura: musteri cizgileri satici ile esit uzunlukta.",
     "mandatory":  false,
     "releaseDate":  "2026-06-09",
     "dryRun":  false,
