@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.97",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.97.exe",
+    "version":  "1.2.98",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.98.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.97.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.98.exe"
                      ],
-    "sha256":  "30C08B14727BB071304503DE749BBBECC65E1F642646D92199F224E3817A389A",
-    "releaseNotes":  "Canli N11Faturam MTOM destegi (415 cozuldu).",
+    "sha256":  "62DF7BAF38333BBCA5AA34B6CEF05AEF56A68E379B43F7CC75E2FD5DB09F6179",
+    "releaseNotes":  "Canli N11Faturam endpoint www.n11faturam.com olarak duzeltildi (digitalplanet bos ticket donduruyordu; auth artik basarili).",
     "mandatory":  false,
     "releaseDate":  "2026-06-09",
     "dryRun":  false,
