@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.68",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.68.exe",
+    "version":  "1.2.69",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.69.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.68.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.69.exe"
                      ],
-    "sha256":  "EF3152F33D691BC92AC1C3BFD040458CC81F3795CEDE58FB0D325821001EE591",
-    "releaseNotes":  "Platformdaki Urunler grid\u0027ine Marka sutunu eklendi (cekim + DB yukleme).",
+    "sha256":  "108918FA18C64B89A04227FC7B24DCA0F086F0673AEE4412E89DB48D0EC146D0",
+    "releaseNotes":  "v1.2.69 surumu yayinlandi.",
     "mandatory":  false,
     "releaseDate":  "2026-06-08",
     "dryRun":  false,
