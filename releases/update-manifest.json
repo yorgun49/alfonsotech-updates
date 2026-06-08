@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.67",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.67.exe",
+    "version":  "1.2.68",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.68.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.67.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.68.exe"
                      ],
-    "sha256":  "B11C8745FB22ABEECD27E05062F2733F51444070BC97AB0E9017D39662A3BDB4",
-    "releaseNotes":  "Cekilen urunleri silme butonu + Arsiv urunleri secenegi (varsayilan sadece satistakiler).",
+    "sha256":  "EF3152F33D691BC92AC1C3BFD040458CC81F3795CEDE58FB0D325821001EE591",
+    "releaseNotes":  "Platformdaki Urunler grid\u0027ine Marka sutunu eklendi (cekim + DB yukleme).",
     "mandatory":  false,
     "releaseDate":  "2026-06-08",
     "dryRun":  false,
