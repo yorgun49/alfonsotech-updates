@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.93",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.93.exe",
+    "version":  "1.2.94",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.94.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.93.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.94.exe"
                      ],
-    "sha256":  "2A6F3C18C4443971776327DCF24D93013348A3DCF5C9F42E66A2ED1EBE676731",
-    "releaseNotes":  "Fatura: musteri cizgileri satici ile esit uzunlukta.",
+    "sha256":  "2E13DE2098D0C81D2644FCF847D804829AB587A655AC1D07AA90AA55683FE8CC",
+    "releaseNotes":  "Manuel fatura tipi secimi (e-Fatura/e-Arsiv/Istisna) artik gonderime gecip otomatik tespiti geciyor.",
     "mandatory":  false,
     "releaseDate":  "2026-06-09",
     "dryRun":  false,
