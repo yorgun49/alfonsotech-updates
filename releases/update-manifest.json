@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.62",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.62.exe",
+    "version":  "1.2.63",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.63.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.62.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.63.exe"
                      ],
-    "sha256":  "090661D1AB993C7058033AAE89DC26612E43A9C9C1D44DE3EB3D9253F8A549C3",
-    "releaseNotes":  "v1.2.62 surumu yayinlandi.",
+    "sha256":  "00D581AA503C342FF4DD25B71643CEA4E4CF0C4990FC46514D8B36AA719C7F0A",
+    "releaseNotes":  "Idefix kategori sutunu (dogru pencere KategoriListesi), guncelleme mekanizmasi GitHub-oncelikli.",
     "mandatory":  false,
     "releaseDate":  "2026-06-08",
     "dryRun":  false,
