@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.66",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.66.exe",
+    "version":  "1.2.67",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.67.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.66.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.67.exe"
                      ],
-    "sha256":  "73AD09D43ECA67D65E07174CA171A59C3631FFF80EEF56D2BFB2AAA54A81306E",
-    "releaseNotes":  "Platform urun grid: Urun Id + Kategori Id alanlari dolduruldu; marka/kategori sistem urunune kaydediliyor.",
+    "sha256":  "B11C8745FB22ABEECD27E05062F2733F51444070BC97AB0E9017D39662A3BDB4",
+    "releaseNotes":  "Cekilen urunleri silme butonu + Arsiv urunleri secenegi (varsayilan sadece satistakiler).",
     "mandatory":  false,
     "releaseDate":  "2026-06-08",
     "dryRun":  false,
