@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.86",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.86.exe",
+    "version":  "1.2.87",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.87.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.86.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.87.exe"
                      ],
-    "sha256":  "CCACCABEA4E5BC647CFB743125D4AAE9790323E30CF22BEAD766E23DAB4C828C",
-    "releaseNotes":  "e-Arsiv SendingType DocumentType degeri ELEKTRONIK olarak duzeltildi.",
+    "sha256":  "CCB73074685D4E7E628A90DCAEB2EA05A2085939BB88D1CDFD3384B5E8AF51EB",
+    "releaseNotes":  "e-Arsiv fatura logosu: bozuk gomulu base64 yerine belgeler/logo.jpg calisma aninda gomuluyor.",
     "mandatory":  false,
     "releaseDate":  "2026-06-08",
     "dryRun":  false,
