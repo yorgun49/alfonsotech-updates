@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.91",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.91.exe",
+    "version":  "1.2.92",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.92.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.91.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.92.exe"
                      ],
-    "sha256":  "28AFD3DAE936FEE89BE9207BA511B868603338A7C134DD979B9BA9187A52E4BA",
-    "releaseNotes":  "E-Fatura idempotent kurtarma: \u0027fatura daha once islenmistir\u0027 yanitinda mevcut InvoiceId+UUID benimsenip basari sayiliyor.",
+    "sha256":  "115C90DFF66D62E609856BDA39154CB5C518499F00B78F59B0FFA988A5789A0E",
+    "releaseNotes":  "Iptal edilmis fatura: DigitalPlanet durum sorgusu (CheckEArchiveInvoiceState) ile iptal tespit edilip taze numarayla yeniden kesiliyor; aktifse benimseniyor.",
     "mandatory":  false,
     "releaseDate":  "2026-06-09",
     "dryRun":  false,
