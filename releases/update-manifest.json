@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.80",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.80.exe",
+    "version":  "1.2.81",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.81.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.80.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.81.exe"
                      ],
-    "sha256":  "45DB73556F2170ACF8C8151AB0B63B13C5300A15A2CE44BB23FC820728B337CC",
-    "releaseNotes":  "E-Fatura INVALID PARAMETER duzeltmesi: fatura seri oneki (N01) artik TemplateCode olarak gonderilmiyor; sablonsuz metoda gecildi.",
+    "sha256":  "699228319042D548DE63BE4009AC3A0AED9EDEE36B51014292A21E31EDE9A824",
+    "releaseNotes":  "E-Fatura: MapCode/TemplateCode ayardan girilebilir + DigitalPlanet ham yanit teshis log.",
     "mandatory":  false,
     "releaseDate":  "2026-06-08",
     "dryRun":  false,
