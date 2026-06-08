@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.75",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.75.exe",
+    "version":  "1.2.76",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.76.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.75.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.76.exe"
                      ],
-    "sha256":  "73E6F83A9B1BCBFCF643D438C08C7ED8DD067B5FAD0CA2041F06B457DD07F0A8",
-    "releaseNotes":  "Trendyol varyant gruplama: ayni model (productMainId) tek urun + N varyant (Renk/Numara/Beden).",
+    "sha256":  "62E069E583E06A618EE2B07B378DF484FEE9293DA0061B11476A7A29FAE56563",
+    "releaseNotes":  "Varyant gruplama productContentId oncelikli (daha guvenilir); ayni model tek urun.",
     "mandatory":  false,
     "releaseDate":  "2026-06-08",
     "dryRun":  false,
