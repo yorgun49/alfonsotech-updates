@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.89",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.89.exe",
+    "version":  "1.2.90",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.90.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.89.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.90.exe"
                      ],
-    "sha256":  "BD20AF16E4B18AC50AD986FDEAAD2765252D9DC77EDC11E4CF4EB34736518E58",
-    "releaseNotes":  "Fatura: musteri kutusu satici gibi ust+alt cizgi yapildi; footer\u0027a e-Arsiv/Digital Planet aciklamalari eklendi.",
+    "sha256":  "68C9C6185B161E3CA875D212A9DECA6AC3D461833BB8CC9B654F8D4D7B13876D",
+    "releaseNotes":  "Iptal edilmis faturanin yeniden kesimi: taze numara+UUID alinarak \u0027daha once islenmistir\u0027 hatasi giderildi.",
     "mandatory":  false,
     "releaseDate":  "2026-06-09",
     "dryRun":  false,
