@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.96",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.96.exe",
+    "version":  "1.2.97",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.97.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.96.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.97.exe"
                      ],
-    "sha256":  "66AB098ABC61F9625AC2CA517A689824070540C36721E5E61FF902851B50C098",
-    "releaseNotes":  "Siparis listesine \u0027Fatura Adresi\u0027 sutunu eklendi (teslimat ile ayniysa belirtiliyor).",
+    "sha256":  "30C08B14727BB071304503DE749BBBECC65E1F642646D92199F224E3817A389A",
+    "releaseNotes":  "Canli N11Faturam MTOM destegi (415 cozuldu).",
     "mandatory":  false,
     "releaseDate":  "2026-06-09",
     "dryRun":  false,
