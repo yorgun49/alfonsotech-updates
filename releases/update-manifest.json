@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.94",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.94.exe",
+    "version":  "1.2.95",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.95.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.94.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.95.exe"
                      ],
-    "sha256":  "2E13DE2098D0C81D2644FCF847D804829AB587A655AC1D07AA90AA55683FE8CC",
-    "releaseNotes":  "Manuel fatura tipi secimi (e-Fatura/e-Arsiv/Istisna) artik gonderime gecip otomatik tespiti geciyor.",
+    "sha256":  "5D0E936BD4F1BBC05E8104F4F3EF8251D6969D1D1EEC142603ACC75FE16F0F81",
+    "releaseNotes":  "Fatura adresi teslimat adresinden ayri cekiliyor (N11, Hepsiburada, Idefix tamamlandi; Trendyol zaten vardi).",
     "mandatory":  false,
     "releaseDate":  "2026-06-09",
     "dryRun":  false,
