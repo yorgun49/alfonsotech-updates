@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.2.72",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.72.exe",
+    "version":  "1.2.73",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.73.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.72.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.73.exe"
                      ],
-    "sha256":  "44C8A4F1A9043FF7418A1A048FF8934C975BBD7980CF1B193D64D14C315540A0",
-    "releaseNotes":  "Arama cubugu calisir hale getirildi (urun adi/barkod/stok kodu/marka filtresi); liste yazisi inceltilip italik yapildi.",
+    "sha256":  "2DE3A5B4392C3979679013849212015C343590CA01FFB7BE77B694B58EE9F818",
+    "releaseNotes":  "Urun listesi profesyonel restyle: net yazi, hucre dolgusu, baslik stili, genis Urun Adi, saga yaslanmis sayilar, buyutulmus pencere.",
     "mandatory":  false,
     "releaseDate":  "2026-06-08",
     "dryRun":  false,
