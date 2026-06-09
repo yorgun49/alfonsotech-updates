@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.2.98",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.2.98.exe",
+    "version":  "1.3.0",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.0.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.2.98.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.0.exe"
                      ],
-    "sha256":  "62DF7BAF38333BBCA5AA34B6CEF05AEF56A68E379B43F7CC75E2FD5DB09F6179",
-    "releaseNotes":  "Canli N11Faturam endpoint www.n11faturam.com olarak duzeltildi (digitalplanet bos ticket donduruyordu; auth artik basarili).",
+    "sha256":  "E88A92EB00F68E524EF2EEFA393798E556589364382BEFCF3EFB9301C351E0CA",
+    "releaseNotes":  "v1.3.0 surumu yayinlandi.",
     "mandatory":  false,
-    "releaseDate":  "2026-06-09",
+    "releaseDate":  "2026-06-10",
     "dryRun":  false,
     "signed":  true
 }
