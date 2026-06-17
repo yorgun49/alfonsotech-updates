@@ -4,8 +4,8 @@
     "fallbackUrls":  [
                          "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.7.exe"
                      ],
-    "sha256":  "0A0C28E39B1EE5B32868DE02073E91483234B7318A95C55902A1C9F8D574BBFD",
-    "releaseNotes":  "Gorseller proxy-dayanikli HttpClient ile yukleniyor (asenkron + onbellek)",
+    "sha256":  "7EBE795C81257EA7BE7EBBF034B7E125A1CBB6D1A47D2D64EB3C34903481BAE7",
+    "releaseNotes":  "Baglanti interceptor (tunel garanti) + gorseller + denetci",
     "mandatory":  false,
     "releaseDate":  "2026-06-17",
     "dryRun":  false,
