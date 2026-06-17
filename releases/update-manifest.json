@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.3",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.3.exe",
+    "version":  "1.3.4",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.4.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.3.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.4.exe"
                      ],
-    "sha256":  "B71E3F94CA53F119BF1B753D788A05FC85045E303400400E9ADA605465BC48C9",
-    "releaseNotes":  "Varyant birlestirme + urun gorseli + siparis paneli hizi",
+    "sha256":  "8F4B093BBBC3A28A5DC12DBF4D52F877C5D5E055E2D3C1185A3C6DD737F16455",
+    "releaseNotes":  "Kurulum kisayolu 0x80070005 duzeltmesi + sifresiz imzalama",
     "mandatory":  false,
     "releaseDate":  "2026-06-17",
     "dryRun":  false,
