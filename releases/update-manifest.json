@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.5",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.5.exe",
+    "version":  "1.3.6",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.6.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.5.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.6.exe"
                      ],
-    "sha256":  "0288ADF0B59A0C06253526D13D1C8EB389CEEF1FEB553E6F02156E247EF8CEAC",
-    "releaseNotes":  "Kararlı detached SSH tunel + onceki duzeltmeler",
+    "sha256":  "4EC726FFC4F8F2BD01D8B9DA2DD271695C8DEDF74C92309A1C0A34264B52927D",
+    "releaseNotes":  "Kendini-onaran SSH tunel denetcisi + guclu keepalive",
     "mandatory":  false,
     "releaseDate":  "2026-06-17",
     "dryRun":  false,
