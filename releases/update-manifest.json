@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.2",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.2.exe",
+    "version":  "1.3.3",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.3.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.2.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.3.exe"
                      ],
-    "sha256":  "663F73066B29FBB2234835342FC866790DB61F8C65DFA9DB1FE47B41AA590F15",
-    "releaseNotes":  "Barkod yazdirma duzeltmesi + hiz + kendinden tunel",
+    "sha256":  "B71E3F94CA53F119BF1B753D788A05FC85045E303400400E9ADA605465BC48C9",
+    "releaseNotes":  "Varyant birlestirme + urun gorseli + siparis paneli hizi",
     "mandatory":  false,
     "releaseDate":  "2026-06-17",
     "dryRun":  false,
