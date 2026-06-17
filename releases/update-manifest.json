@@ -4,8 +4,8 @@
     "fallbackUrls":  [
                          "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.4.exe"
                      ],
-    "sha256":  "8F4B093BBBC3A28A5DC12DBF4D52F877C5D5E055E2D3C1185A3C6DD737F16455",
-    "releaseNotes":  "Kurulum kisayolu 0x80070005 duzeltmesi + sifresiz imzalama",
+    "sha256":  "6FEFEFD20FC1AF40AD53E8784528939661315540984844414F801E74EF0E473C",
+    "releaseNotes":  "Urun gorseli + SKU kolonu + kurulum kisayolu duzeltmesi",
     "mandatory":  false,
     "releaseDate":  "2026-06-17",
     "dryRun":  false,
