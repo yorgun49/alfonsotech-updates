@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.3.0",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.0.exe",
+    "version":  "1.3.2",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.2.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.0.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.2.exe"
                      ],
-    "sha256":  "E88A92EB00F68E524EF2EEFA393798E556589364382BEFCF3EFB9301C351E0CA",
-    "releaseNotes":  "v1.3.0 surumu yayinlandi.",
+    "sha256":  "663F73066B29FBB2234835342FC866790DB61F8C65DFA9DB1FE47B41AA590F15",
+    "releaseNotes":  "Barkod yazdirma duzeltmesi + hiz + kendinden tunel",
     "mandatory":  false,
-    "releaseDate":  "2026-06-10",
+    "releaseDate":  "2026-06-17",
     "dryRun":  false,
     "signed":  true
 }
