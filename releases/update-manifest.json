@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.13",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.13.exe",
+    "version":  "1.3.14",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.14.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.13.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.14.exe"
                      ],
-    "sha256":  "ACEB0FF8F4CDD7B131F01E7735ED18CD7CCE3BBDEC7849C06CD30C5203C2379F",
-    "releaseNotes":  "Marka aramasi kategoriye gore filtreleniyor",
+    "sha256":  "582167CEDC462346A7D89CB7D641ACB484A7D04056945B3B2B1B8DA6E52C0FE0",
+    "releaseNotes":  "Marka aktivasyonu: 316k icinden ~300 ilgili marka aktif",
     "mandatory":  false,
     "releaseDate":  "2026-06-21",
     "dryRun":  false,
