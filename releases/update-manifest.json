@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.10",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.10.exe",
+    "version":  "1.3.11",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.11.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.10.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.11.exe"
                      ],
-    "sha256":  "E06692514C793585FFD63936B9BDAEE5223FB027489C8CEA5B9F98C95942FBFD",
-    "releaseNotes":  "Trendyol ozellikleri geri yukleniyor + Toplu Islemler kapali + dashboard + Trendyol marka + form sure logu",
+    "sha256":  "F0129540CE37656F6695F476F5E56B19DBEF215596FA820EE207CD79177788A5",
+    "releaseNotes":  "Trendyol cekme: tum urun ozellikleri EkAlanlar\u0027a kaydediliyor",
     "mandatory":  false,
     "releaseDate":  "2026-06-20",
     "dryRun":  false,
