@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.15",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.15.exe",
+    "version":  "1.3.16",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.16.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.15.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.16.exe"
                      ],
-    "sha256":  "5DE768A119CAB6A436137F81CFB30990CB8A808EB88BFA1B73D99D9F17FE56D5",
-    "releaseNotes":  "Marka aktivasyonu + Trendyol API lookup + ID enrichment (Idefix/N11/HB) + kategori bazli marka filtresi + AutoSetup fire-and-forget",
+    "sha256":  "F5C54C21DC54BF5C63C568A40183D450A879B7D4C4E38755BD11BD705842C995",
+    "releaseNotes":  "Trendyol MarkaAraAsync dinamik JSON parse duzeltmesi",
     "mandatory":  false,
     "releaseDate":  "2026-06-21",
     "dryRun":  false,
