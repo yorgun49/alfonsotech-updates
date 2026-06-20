@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.18",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.18.exe",
+    "version":  "1.3.19",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.19.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.18.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.19.exe"
                      ],
-    "sha256":  "2099EF503E1DA9C883D1C63D3A75EAD944789197963DA4AD31A3B464D91E488F",
-    "releaseNotes":  "N11 baslik otomatik kesme + varsayilan teslimat sablonu Sartli Odeme",
+    "sha256":  "E2A09CF6DF0BB13A37A3CB42C3F2D7E4F7510DD40AA1B27F7679AC99A264DDF4",
+    "releaseNotes":  "HepsiBurada gercek API hata mesaji UI\u0027a yansiyor + N11 baslik/teslimat",
     "mandatory":  false,
     "releaseDate":  "2026-06-21",
     "dryRun":  false,
