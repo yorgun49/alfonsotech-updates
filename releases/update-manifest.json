@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.12",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.12.exe",
+    "version":  "1.3.13",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.13.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.12.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.13.exe"
                      ],
-    "sha256":  "C259A33A067734973B652D197BD7BE91AB00C3C691C6CCEFE0E6B4940429E7E7",
-    "releaseNotes":  "Baglanti: AutoSetup fire-and-forget (UI takilmasi)",
+    "sha256":  "ACEB0FF8F4CDD7B131F01E7735ED18CD7CCE3BBDEC7849C06CD30C5203C2379F",
+    "releaseNotes":  "Marka aramasi kategoriye gore filtreleniyor",
     "mandatory":  false,
     "releaseDate":  "2026-06-21",
     "dryRun":  false,
