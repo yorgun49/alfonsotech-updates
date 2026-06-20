@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.9",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.9.exe",
+    "version":  "1.3.10",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.10.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.9.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.10.exe"
                      ],
-    "sha256":  "B9591B06BF2A48B781AB78DE9384A71180B4A496B2AB9046BA31EDC257DAB3FB",
-    "releaseNotes":  "Yerel referans cache: marka/kategori/resim yerelde, gunde bir tazeleme",
+    "sha256":  "25580EF434927515C26103511FB878C746DEEE3A16D9EDC55AB2109755FA7109",
+    "releaseNotes":  "Dashboard sayilari + Trendyol marka cekme duzeltmesi",
     "mandatory":  false,
     "releaseDate":  "2026-06-20",
     "dryRun":  false,
