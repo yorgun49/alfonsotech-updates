@@ -4,8 +4,8 @@
     "fallbackUrls":  [
                          "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.10.exe"
                      ],
-    "sha256":  "519E82B886313F09030A0E373F347B4269AFCE431AD98BF2355DCA83B822ECF4",
-    "releaseNotes":  "Trendyol ozellikleri geri yukleniyor + dashboard + Trendyol marka + form sure olcumu",
+    "sha256":  "E06692514C793585FFD63936B9BDAEE5223FB027489C8CEA5B9F98C95942FBFD",
+    "releaseNotes":  "Trendyol ozellikleri geri yukleniyor + Toplu Islemler kapali + dashboard + Trendyol marka + form sure logu",
     "mandatory":  false,
     "releaseDate":  "2026-06-20",
     "dryRun":  false,
