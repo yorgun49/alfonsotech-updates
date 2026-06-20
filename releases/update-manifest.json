@@ -4,10 +4,10 @@
     "fallbackUrls":  [
                          "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.11.exe"
                      ],
-    "sha256":  "F0129540CE37656F6695F476F5E56B19DBEF215596FA820EE207CD79177788A5",
-    "releaseNotes":  "Trendyol cekme: tum urun ozellikleri EkAlanlar\u0027a kaydediliyor",
+    "sha256":  "C64AC5B53608BBDCAF8ABC6ACA1FBB0F80F56ED24DFB1A645F6EDA7782A2A8C2",
+    "releaseNotes":  "Trendyol marka+attribute + Toplu Islemler + dashboard + form ozellikleri",
     "mandatory":  false,
-    "releaseDate":  "2026-06-20",
+    "releaseDate":  "2026-06-21",
     "dryRun":  false,
     "signed":  true
 }
