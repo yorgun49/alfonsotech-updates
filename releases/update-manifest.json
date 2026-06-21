@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.3.28",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.28.exe",
+    "version":  "1.3.29",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.29.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.28.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.29.exe"
                      ],
-    "sha256":  "6F3FD55A128EF672ADA145FC360273D5CCA08DFFEF111A9B8A99EC39F4A8901C",
-    "releaseNotes":  "HepsiBurada satisa ac: gercek hata mesaji ekranda",
+    "sha256":  "375FFC427EADBA7C5BE035752C6E1283EB21636F32D091890B0670A435E8CEFD",
+    "releaseNotes":  "HepsiBurada satisa ac: activate hepsiburadaSku ile (404 fix)",
     "mandatory":  false,
-    "releaseDate":  "2026-06-21",
+    "releaseDate":  "2026-06-22",
     "dryRun":  false,
     "signed":  true
 }
