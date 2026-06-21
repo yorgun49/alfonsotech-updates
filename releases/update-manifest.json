@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.24",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.24.exe",
+    "version":  "1.3.25",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.25.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.24.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.25.exe"
                      ],
-    "sha256":  "846DD002E251443F567D4600D68ABE4C5355105904F235BE5B1AE1191E5C55C2",
-    "releaseNotes":  "HepsiBurada 3 durum sorgu butonu gercek (katalog onay + urun guncelleme + adetfiyat)",
+    "sha256":  "0BB3E404B9C60251FB6F4424F5E6BB652F1C1A359793F89C55FC5919A2D8FC6F",
+    "releaseNotes":  "HepsiBurada katalog red sebebi detayli + ham yanit logu",
     "mandatory":  false,
     "releaseDate":  "2026-06-21",
     "dryRun":  false,
