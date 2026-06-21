@@ -4,8 +4,8 @@
     "fallbackUrls":  [
                          "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.31.exe"
                      ],
-    "sha256":  "00293D150BA7F772B3EE385606408D91C22917C7A36384E3335E9EA4DDE86DEA",
-    "releaseNotes":  "Gonderim blokajlari sistemsel cozum: N11 teslimat + Trendyol Web Color + Idefix/HB gercek hata",
+    "sha256":  "3372B9D0DC29E4997B67DBF0B59BD799D890BADA820B05FF3188EAABDEC880C4",
+    "releaseNotes":  "Gonderim blokajlari cozuldu (N11/Trendyol/HB) + VPS API guncellendi",
     "mandatory":  false,
     "releaseDate":  "2026-06-22",
     "dryRun":  false,
