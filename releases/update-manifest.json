@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.31",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.31.exe",
+    "version":  "1.3.32",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.32.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.31.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.32.exe"
                      ],
-    "sha256":  "3372B9D0DC29E4997B67DBF0B59BD799D890BADA820B05FF3188EAABDEC880C4",
-    "releaseNotes":  "Gonderim blokajlari cozuldu (N11/Trendyol/HB) + VPS API guncellendi",
+    "sha256":  "6775331ABFACFE2DFA8112FB4EF1E4866F94D9C8C8AE3502F0095AB436475133",
+    "releaseNotes":  "Gonderim blokajlari cozuldu (N11 teslimat + Trendyol Web Color + Idefix/HB gercek hata) + HB satisa ac tum varyantlar",
     "mandatory":  false,
     "releaseDate":  "2026-06-22",
     "dryRun":  false,
