@@ -4,8 +4,8 @@
     "fallbackUrls":  [
                          "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.20.exe"
                      ],
-    "sha256":  "ED0352FFCB7207842C132BAEE563A32A7CC80DE486A3511C0E0B8F7ADB008A14",
-    "releaseNotes":  "Trendyol UPDATE modu + HB gercek hata mesaji + N11 baslik+teslimat",
+    "sha256":  "8FE39BF43A56082AD2710F54052B45B9A81B7DFA525E0C68B401C1CA25EE23FC",
+    "releaseNotes":  "Cross-marketplace attribute mapping + Trendyol UPDATE modu + HB hata mesaji + N11 baslik/teslimat",
     "mandatory":  false,
     "releaseDate":  "2026-06-21",
     "dryRun":  false,
