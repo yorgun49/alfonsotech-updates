@@ -4,8 +4,8 @@
     "fallbackUrls":  [
                          "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.27.exe"
                      ],
-    "sha256":  "8DFA13FA7540AEF89DFF1A48BA508CBA25AE62A3B0A152531419801AC29CE6CC",
-    "releaseNotes":  "HepsiBurada Listing Activate (satisa acma) + Satisa Ac/Kapat butonlari",
+    "sha256":  "629A4FF7D05E5ACD3916D1B81D27B132F5A21FE6DB3BF9179FD90C136BBEA901",
+    "releaseNotes":  "HepsiBurada Satisa Ac/Kapat (Listing Activate)",
     "mandatory":  false,
     "releaseDate":  "2026-06-21",
     "dryRun":  false,
