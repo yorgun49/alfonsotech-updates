@@ -4,8 +4,8 @@
     "fallbackUrls":  [
                          "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.19.exe"
                      ],
-    "sha256":  "E2A09CF6DF0BB13A37A3CB42C3F2D7E4F7510DD40AA1B27F7679AC99A264DDF4",
-    "releaseNotes":  "HepsiBurada gercek API hata mesaji UI\u0027a yansiyor + N11 baslik/teslimat",
+    "sha256":  "673521BF4773FA86BC12A81A6E4DC158E9B113D5E2BE710E14B70E2A3BEEF9D7",
+    "releaseNotes":  "HepsiBurada gercek API hata mesaji + N11 baslik/teslimat",
     "mandatory":  false,
     "releaseDate":  "2026-06-21",
     "dryRun":  false,
