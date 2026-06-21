@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.26",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.26.exe",
+    "version":  "1.3.27",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.27.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.26.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.27.exe"
                      ],
-    "sha256":  "7714364C5D23E7BCEC664711CF5EB92CCDDC7AEF78E5BB55CBDAC457E0B7253A",
-    "releaseNotes":  "HepsiBurada katalog durum: hbSku dolu=basarili (yanlis red duzeltildi)",
+    "sha256":  "8DFA13FA7540AEF89DFF1A48BA508CBA25AE62A3B0A152531419801AC29CE6CC",
+    "releaseNotes":  "HepsiBurada Listing Activate (satisa acma) + Satisa Ac/Kapat butonlari",
     "mandatory":  false,
     "releaseDate":  "2026-06-21",
     "dryRun":  false,
