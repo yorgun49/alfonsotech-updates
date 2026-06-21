@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.19",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.19.exe",
+    "version":  "1.3.20",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.20.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.19.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.20.exe"
                      ],
-    "sha256":  "673521BF4773FA86BC12A81A6E4DC158E9B113D5E2BE710E14B70E2A3BEEF9D7",
-    "releaseNotes":  "HepsiBurada gercek API hata mesaji + N11 baslik/teslimat",
+    "sha256":  "ED0352FFCB7207842C132BAEE563A32A7CC80DE486A3511C0E0B8F7ADB008A14",
+    "releaseNotes":  "Trendyol UPDATE modu + HB gercek hata mesaji + N11 baslik+teslimat",
     "mandatory":  false,
     "releaseDate":  "2026-06-21",
     "dryRun":  false,
