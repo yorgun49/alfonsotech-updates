@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.21",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.21.exe",
+    "version":  "1.3.22",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.22.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.21.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.22.exe"
                      ],
-    "sha256":  "55CB7686B28F300E35EAAD912EEF4434666FFC4D1552918C98AEB50930259589",
-    "releaseNotes":  "Cross-marketplace attribute mapping (Trendyol ozellikleri diger pazaryerlerine otomatik) + Trendyol UPDATE modu + HB gercek hata mesaji + N11 baslik/teslimat",
+    "sha256":  "F1D78E7F4BF317FE9AD72E2CD5291C5E413CB732583B7166FBD2EAC502F7EC51",
+    "releaseNotes":  "HepsiBurada katalog onay + satis durumu yasam dongusu paneli",
     "mandatory":  false,
     "releaseDate":  "2026-06-21",
     "dryRun":  false,
