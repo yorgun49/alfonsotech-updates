@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.34",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.34.exe",
+    "version":  "1.3.36",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.36.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.34.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.36.exe"
                      ],
-    "sha256":  "E74F5A5D81B51C27AD98435349E010B5D0B34E23876026D535650DBC9428B447",
-    "releaseNotes":  "Siparis kalem gorseli + Siparis Detayi NRE + N11 marka(Diger) + Web Color + HB satisa ac",
+    "sha256":  "B8D07D757710CF6180D9BB4B1DDB91CFECA3ED5EECCD922A7FD0CA279FC3E1C9",
+    "releaseNotes":  "Coklu renk urun cekme: tum renk gorselleri birlestiriliyor",
     "mandatory":  false,
     "releaseDate":  "2026-06-22",
     "dryRun":  false,
