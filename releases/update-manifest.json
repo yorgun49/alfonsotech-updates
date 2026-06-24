@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.3.36",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.36.exe",
+    "version":  "1.3.37",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.37.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.36.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.37.exe"
                      ],
-    "sha256":  "B8D07D757710CF6180D9BB4B1DDB91CFECA3ED5EECCD922A7FD0CA279FC3E1C9",
-    "releaseNotes":  "Coklu renk urun cekme: tum renk gorselleri birlestiriliyor",
+    "sha256":  "8D6B2E6CC21054BDD4B8C2C5C7ECC40976FB37A48E778D7289616998722B6E08",
+    "releaseNotes":  "Pazaryerine fatura URL gonderimi + kargo barkodu duzeltmesi",
     "mandatory":  false,
-    "releaseDate":  "2026-06-22",
+    "releaseDate":  "2026-06-24",
     "dryRun":  false,
     "signed":  true
 }
