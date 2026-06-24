@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.37",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.37.exe",
+    "version":  "1.3.38",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.38.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.37.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.38.exe"
                      ],
-    "sha256":  "8D6B2E6CC21054BDD4B8C2C5C7ECC40976FB37A48E778D7289616998722B6E08",
-    "releaseNotes":  "Pazaryerine fatura URL gonderimi + kargo barkodu duzeltmesi",
+    "sha256":  "3F6C302C23C9B1432F954137778DFE17B13C8EB0A1635519DD4A6DC070B41D4E",
+    "releaseNotes":  "Fatura PDF\u0027inde firma logosu artik build outputuna kopyalaniyor",
     "mandatory":  false,
     "releaseDate":  "2026-06-24",
     "dryRun":  false,
