@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.38",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.38.exe",
+    "version":  "1.3.39",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.39.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.38.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.39.exe"
                      ],
-    "sha256":  "3F6C302C23C9B1432F954137778DFE17B13C8EB0A1635519DD4A6DC070B41D4E",
-    "releaseNotes":  "Fatura PDF\u0027inde firma logosu artik build outputuna kopyalaniyor",
+    "sha256":  "68D096A20E32B2D492CB4A2F7CD23B696304F4A0F8482CF4EF97645A9AC06DEA",
+    "releaseNotes":  "e-Arsiv faturada resmi GIB amblemi + Trendyol tarzi tasarim (yeni XSLT)",
     "mandatory":  false,
     "releaseDate":  "2026-06-24",
     "dryRun":  false,
