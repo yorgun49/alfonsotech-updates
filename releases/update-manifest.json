@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.3.39",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.39.exe",
+    "version":  "1.3.40",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.40.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.39.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.40.exe"
                      ],
-    "sha256":  "68D096A20E32B2D492CB4A2F7CD23B696304F4A0F8482CF4EF97645A9AC06DEA",
-    "releaseNotes":  "e-Arsiv faturada resmi GIB amblemi + Trendyol tarzi tasarim (yeni XSLT)",
+    "sha256":  "C51C067E72F542AE293655CCE02FF97766D00DE4592B7967811B3124D7CF9C3E",
+    "releaseNotes":  "Fatura: satici ismi cift basilmasi + miktar/birim ayraci duzeltildi",
     "mandatory":  false,
-    "releaseDate":  "2026-06-24",
+    "releaseDate":  "2026-06-25",
     "dryRun":  false,
     "signed":  true
 }
