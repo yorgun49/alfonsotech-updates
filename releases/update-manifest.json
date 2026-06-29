@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.42",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.42.exe",
+    "version":  "1.3.43",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.43.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.42.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.43.exe"
                      ],
-    "sha256":  "C1D7933EBC5039FC772F68CCB0884FC7F4635DA595892D6D2A484BC099CD63C1",
-    "releaseNotes":  "Kargo etiketi kargo barkodu duzeltmesi (VPS connector guncel)",
+    "sha256":  "1A2439798B6407CF567F0F71BCB3B050B9B22C52CA44AB9D4C3B3D2C4EB66E75",
+    "releaseNotes":  "N11 kurumsal fatura: invoiceType otomatik parse + kurumsal isaretleme",
     "mandatory":  false,
     "releaseDate":  "2026-06-29",
     "dryRun":  false,
