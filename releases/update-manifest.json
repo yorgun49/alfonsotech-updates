@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.3.40",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.40.exe",
+    "version":  "1.3.41",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.41.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.40.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.41.exe"
                      ],
-    "sha256":  "C51C067E72F542AE293655CCE02FF97766D00DE4592B7967811B3124D7CF9C3E",
-    "releaseNotes":  "Fatura: satici ismi cift basilmasi + miktar/birim ayraci duzeltildi",
+    "sha256":  "627A035CFCBA4928FC1AAC423FB8CA9CC6F55FD6F9A1524F8247C486C080D32D",
+    "releaseNotes":  "Multi-machine lisans destegi: ev+is bilgisayari ayni anahtar (capraz aktivasyon dongusu cozuldu)",
     "mandatory":  false,
-    "releaseDate":  "2026-06-25",
+    "releaseDate":  "2026-06-29",
     "dryRun":  false,
     "signed":  true
 }
