@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.44",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.44.exe",
+    "version":  "1.3.45",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.45.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.44.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.45.exe"
                      ],
-    "sha256":  "F5B5761A1AADFF1C865398A731473A577CCBDA4DAB229B347A12818F5AB391E6",
-    "releaseNotes":  "Kurumsal/sahis firmasi e-Fatura: mukellef tespiti + vergi dairesi (M serisi e-Fatura) duzeltmesi",
+    "sha256":  "241CD31482FA1A5D7F6C765AAA4F7D9A4A3B656D66AD7818EE94BE8D624236B8",
+    "releaseNotes":  "Kurumsal kimlik kaydi: Trendyol HamVeri + musteri kimlik garantisi + fatura kimlik kurtarma",
     "mandatory":  false,
     "releaseDate":  "2026-06-29",
     "dryRun":  false,
