@@ -4,8 +4,8 @@
     "fallbackUrls":  [
                          "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.41.exe"
                      ],
-    "sha256":  "627A035CFCBA4928FC1AAC423FB8CA9CC6F55FD6F9A1524F8247C486C080D32D",
-    "releaseNotes":  "Multi-machine lisans destegi: ev+is bilgisayari ayni anahtar (capraz aktivasyon dongusu cozuldu)",
+    "sha256":  "BC911181FE138CD76FD614254B877875D68DAA287738DCB71C87403B7DD72964",
+    "releaseNotes":  "Kargo etiketinde gercek kargo barkodu (siparis no degil) + kampanya kodu satiri kaldirildi",
     "mandatory":  false,
     "releaseDate":  "2026-06-29",
     "dryRun":  false,
