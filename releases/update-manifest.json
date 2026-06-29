@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.45",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.45.exe",
+    "version":  "1.3.46",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.46.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.45.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.46.exe"
                      ],
-    "sha256":  "241CD31482FA1A5D7F6C765AAA4F7D9A4A3B656D66AD7818EE94BE8D624236B8",
-    "releaseNotes":  "Kurumsal kimlik kaydi: Trendyol HamVeri + musteri kimlik garantisi + fatura kimlik kurtarma",
+    "sha256":  "05E716F309E083B739D3220C0B63B1E4F55201E13E4051A700C972F1BA486F19",
+    "releaseNotes":  "Trendyol fatura silme (sag tik) + invoiceStatus red takibi",
     "mandatory":  false,
     "releaseDate":  "2026-06-29",
     "dryRun":  false,
