@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.53",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.53.exe",
+    "version":  "1.3.54",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.54.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.53.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.54.exe"
                      ],
-    "sha256":  "72B0AC8424E6AC49A99BA381BFC64AACBE605C4DB952AC2165B59C4C0FF2BA96",
-    "releaseNotes":  "Trendyol e-Fatura dosya yukleme: multipart content-type duzeltmesi",
+    "sha256":  "149E7D7B63A0B9D6526183D77939202266E6C43B32811F03260C508113AA1216",
+    "releaseNotes":  "Siparis cekme: varsayilan 7 gun + tarih araligi secerek eski siparisleri cekme",
     "mandatory":  false,
     "releaseDate":  "2026-06-30",
     "dryRun":  false,
