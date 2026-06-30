@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.3.60",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.60.exe",
+    "version":  "1.3.61",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.61.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.60.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.61.exe"
                      ],
-    "sha256":  "F279A84A62796EA28B3795BB02E8F68590B18C122AD2DEFCAEC468CD082C774D",
-    "releaseNotes":  "Hepsiburada faturasiz teslim siparisleri (missing-invoice) - panele duser",
+    "sha256":  "6F64511DC5E11E1DD280731DC66F6AB371ECF01CD2B7D55C1D0ABEF534D2AB42",
+    "releaseNotes":  "Hepsiburada teshis: missing-invoice satir yapisi loglanir",
     "mandatory":  false,
-    "releaseDate":  "2026-06-30",
+    "releaseDate":  "2026-07-01",
     "dryRun":  false,
     "signed":  true
 }
