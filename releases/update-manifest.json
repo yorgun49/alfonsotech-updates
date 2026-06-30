@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.66",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.66.exe",
+    "version":  "1.3.67",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.67.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.66.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.67.exe"
                      ],
-    "sha256":  "4229EA263BF1EB5EDEEBD02EE96DEB32821CE980A3C3F156A239F73A49305AFD",
-    "releaseNotes":  "Hepsiburada siparis detay obje parse (musteri/kimlik/fatura adresi/urun)",
+    "sha256":  "FCBC3729ADA821C51243C9170EA10992DCBF95867C91C99DD6C9DF8913588310",
+    "releaseNotes":  "Hepsiburada urun KDV/fiyat duzeltmesi - e-Arsiv fatura kesimi",
     "mandatory":  false,
     "releaseDate":  "2026-07-01",
     "dryRun":  false,
