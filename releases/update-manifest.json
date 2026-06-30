@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.49",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.49.exe",
+    "version":  "1.3.50",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.50.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.49.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.50.exe"
                      ],
-    "sha256":  "A83DB8A1595468497F1E9484D7D3793E22D754EE6857E41C89A107D88472A260",
-    "releaseNotes":  "e-Fatura/e-Arsiv akislari kesin ayrildi: otomatik akis e-Faturayi dosya yukler",
+    "sha256":  "8DB4BEFFC0CF0CED651226975C6876EA58EAA7D8EC5C08216A7B7839CAFBC1BD",
+    "releaseNotes":  "e-Fatura PDF MTOM ikili ekinden ayiklanir (pazaryerine dosya yukleme duzeltmesi)",
     "mandatory":  false,
     "releaseDate":  "2026-06-30",
     "dryRun":  false,
