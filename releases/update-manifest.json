@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.57",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.57.exe",
+    "version":  "1.3.58",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.58.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.57.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.58.exe"
                      ],
-    "sha256":  "ABFA45B5A943C1B664616AC7175801772922D1211A5ECFB13D8D14E1E06D8749",
-    "releaseNotes":  "Hepsiburada gecmis/tamamlanmis siparisler (/packages) - tarih araligindaki tum siparisler",
+    "sha256":  "A561CDBC0EB071DDE260ECAB18DD73AEF254D88EE8624C06F5AF8F0FCDBB47F0",
+    "releaseNotes":  "Hepsiburada /packages dizi yaniti parse duzeltmesi",
     "mandatory":  false,
     "releaseDate":  "2026-06-30",
     "dryRun":  false,
