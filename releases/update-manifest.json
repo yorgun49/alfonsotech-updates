@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.55",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.55.exe",
+    "version":  "1.3.56",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.56.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.55.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.56.exe"
                      ],
-    "sha256":  "22F54CB0F8CF62B893CCDAC42714C98F04052DB9BE97EF71B63D9742E5DF3423",
-    "releaseNotes":  "Siparis cekme butonu Siparisler penceresine tasindi (tarih araligi ile cekme)",
+    "sha256":  "B81A827529EF81230D1A9F03CE55A66CB86A1533D48FC92BE0F79B6E570382A9",
+    "releaseNotes":  "Hepsiburada siparis cekme HTTP 400 duzeltmesi (beginDate/endDate format)",
     "mandatory":  false,
     "releaseDate":  "2026-06-30",
     "dryRun":  false,
