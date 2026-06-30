@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.3.46",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.46.exe",
+    "version":  "1.3.47",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.47.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.46.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.47.exe"
                      ],
-    "sha256":  "05E716F309E083B739D3220C0B63B1E4F55201E13E4051A700C972F1BA486F19",
-    "releaseNotes":  "Trendyol fatura silme (sag tik) + invoiceStatus red takibi",
+    "sha256":  "1C568BDC1046AF33736947E1F3EE7387F8B529F5C2F4372AD8E40BD43EE1AF63",
+    "releaseNotes":  "Kurumsal e-Fatura (TICARIFATURA): sahis firmasi TCKN + eInvoiceAvailable duzeltmesi",
     "mandatory":  false,
-    "releaseDate":  "2026-06-29",
+    "releaseDate":  "2026-06-30",
     "dryRun":  false,
     "signed":  true
 }
