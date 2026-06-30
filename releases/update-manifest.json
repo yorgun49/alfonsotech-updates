@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.65",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.65.exe",
+    "version":  "1.3.66",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.66.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.65.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.66.exe"
                      ],
-    "sha256":  "447E13D436E57933D82DAE5495C7B8168D89DC111A8CD8B16799929269C5880E",
-    "releaseNotes":  "Fatura adresi gercek adresi gosterir; HB fatura akisi hazir",
+    "sha256":  "4229EA263BF1EB5EDEEBD02EE96DEB32821CE980A3C3F156A239F73A49305AFD",
+    "releaseNotes":  "Hepsiburada siparis detay obje parse (musteri/kimlik/fatura adresi/urun)",
     "mandatory":  false,
     "releaseDate":  "2026-07-01",
     "dryRun":  false,
