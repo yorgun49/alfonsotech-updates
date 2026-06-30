@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.47",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.47.exe",
+    "version":  "1.3.48",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.48.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.47.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.48.exe"
                      ],
-    "sha256":  "1C568BDC1046AF33736947E1F3EE7387F8B529F5C2F4372AD8E40BD43EE1AF63",
-    "releaseNotes":  "Kurumsal e-Fatura (TICARIFATURA): sahis firmasi TCKN + eInvoiceAvailable duzeltmesi",
+    "sha256":  "8F55C8226B2CBBF430CA444CF59202E7588D747DEF6AFA57EF351E3F8D705E24",
+    "releaseNotes":  "e-Fatura pazaryerine PDF dosyasi olarak yuklenir (M serisi link yerine dosya)",
     "mandatory":  false,
     "releaseDate":  "2026-06-30",
     "dryRun":  false,
