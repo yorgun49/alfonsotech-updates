@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.61",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.61.exe",
+    "version":  "1.3.62",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.62.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.61.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.62.exe"
                      ],
-    "sha256":  "6F64511DC5E11E1DD280731DC66F6AB371ECF01CD2B7D55C1D0ABEF534D2AB42",
-    "releaseNotes":  "Hepsiburada teshis: missing-invoice satir yapisi loglanir",
+    "sha256":  "EE1E1878269A9C98DC65A817A49D5AFB51358DEA40849B2B7E48A97836EE47CC",
+    "releaseNotes":  "Hepsiburada faturasiz siparisler paket detayindan tam olarak gelir",
     "mandatory":  false,
     "releaseDate":  "2026-07-01",
     "dryRun":  false,
