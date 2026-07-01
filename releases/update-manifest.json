@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.68",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.68.exe",
+    "version":  "1.3.69",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.69.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.68.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.69.exe"
                      ],
-    "sha256":  "3CFB6786A9C171E6FA470704AD5DC951C300C0B4F88F8435ECEE191E7A1D6A72",
-    "releaseNotes":  "Mevcut siparise kalem+fatura adresi guncellemesi (HB fatura kesimi)",
+    "sha256":  "0A58636789775434FF9F2A4F355F85F20CF379AEAD3858059E8FCFDE16CEF8C9",
+    "releaseNotes":  "HB fatura bildirim govde duzeltmesi (arrangementDate ms + rowNumber int)",
     "mandatory":  false,
     "releaseDate":  "2026-07-02",
     "dryRun":  false,
