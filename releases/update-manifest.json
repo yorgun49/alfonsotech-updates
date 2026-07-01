@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.73",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.73.exe",
+    "version":  "1.3.74",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.74.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.73.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.74.exe"
                      ],
-    "sha256":  "D52E8D9A3928BA5FFBD1273331D9622A00E7892C8391E455D28A13FC545C0581",
-    "releaseNotes":  "HB e-posta teshis loglari (fetch-only)",
+    "sha256":  "D48D9DF70ECE0463CB81894A1C695C22E3A88280E5BB04E73E97C5BE3614EDDC",
+    "releaseNotes":  "HB fatura: link PUT yerine e-posta otomatik eslesme (400 kalkti)",
     "mandatory":  false,
     "releaseDate":  "2026-07-02",
     "dryRun":  false,
