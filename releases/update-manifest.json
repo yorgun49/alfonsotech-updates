@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.69",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.69.exe",
+    "version":  "1.3.70",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.70.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.69.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.70.exe"
                      ],
-    "sha256":  "0A58636789775434FF9F2A4F355F85F20CF379AEAD3858059E8FCFDE16CEF8C9",
-    "releaseNotes":  "HB fatura bildirim govde duzeltmesi (arrangementDate ms + rowNumber int)",
+    "sha256":  "6042B1024C2B5883CA830911319F19F747BDD2E2D745BE4D7E2447FDC921AC07",
+    "releaseNotes":  "HB e-Arsiv musteri e-postasi (hepsifatura) yakalanir - HB otomatik fatura eslesme",
     "mandatory":  false,
     "releaseDate":  "2026-07-02",
     "dryRun":  false,
