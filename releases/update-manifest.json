@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.71",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.71.exe",
+    "version":  "1.3.72",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.72.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.71.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.72.exe"
                      ],
-    "sha256":  "1D06A6298E1C54BC0CF6224F1239380BCEC815BFFA7EDFCE528BF62DABDC8C18",
-    "releaseNotes":  "e-Arsiv iptal matrah (vergiler haric) tutar duzeltmesi",
+    "sha256":  "501579894FE2081E5D2CD64F4378C012D660C91106377470056990C6BA9DDE26",
+    "releaseNotes":  "Pazaryeri bazli siparis/fatura penceresi (izolasyon)",
     "mandatory":  false,
     "releaseDate":  "2026-07-02",
     "dryRun":  false,
