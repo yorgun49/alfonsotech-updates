@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.72",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.72.exe",
+    "version":  "1.3.73",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.73.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.72.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.73.exe"
                      ],
-    "sha256":  "501579894FE2081E5D2CD64F4378C012D660C91106377470056990C6BA9DDE26",
-    "releaseNotes":  "Pazaryeri bazli siparis/fatura penceresi (izolasyon)",
+    "sha256":  "D52E8D9A3928BA5FFBD1273331D9622A00E7892C8391E455D28A13FC545C0581",
+    "releaseNotes":  "HB e-posta teshis loglari (fetch-only)",
     "mandatory":  false,
     "releaseDate":  "2026-07-02",
     "dryRun":  false,
