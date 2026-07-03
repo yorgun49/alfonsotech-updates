@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.75",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.75.exe",
+    "version":  "1.3.76",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.76.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.75.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.76.exe"
                      ],
-    "sha256":  "46486DD33536667AD3B57726B6C0B400C87EEFD41EFF343C99EE233ADBE81C82",
-    "releaseNotes":  "P0 guvenlik + veri butunlugu duzeltmeleri (installer imza dogrulama, cift fatura kilidi, Outbox dedup, scheduler rol gate)",
+    "sha256":  "5F66816A17F7924A2B09062E51FF46DF2763477376593CF9B215A106A9F147D3",
+    "releaseNotes":  "Outbox operasyon iyilestirmeleri: tek-mesaj retry (long id) + manuel-cozuldu (ManuallyResolved) endpoint; ic duzeltmeler",
     "mandatory":  false,
     "releaseDate":  "2026-07-03",
     "dryRun":  false,
