@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.3.77",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.77.exe",
+    "version":  "1.3.78",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.78.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.77.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.78.exe"
                      ],
-    "sha256":  "8B4FBC205675132D83DC493F65A29C9A773FCBCBF10D2ED66F7D4FD38947FCE9",
-    "releaseNotes":  "v1.3.77 surumu yayinlandi.",
+    "sha256":  "65ECDFBA291316A5ABB4DC0004E432FE5C787A325F17B2B2815481E270940D0E",
+    "releaseNotes":  "v1.3.78: Trendyol siparisler panele dusmuyordu, SiparisCekmeJob varsayilan olarak aktif edildi",
     "mandatory":  false,
-    "releaseDate":  "2026-07-23",
+    "releaseDate":  "2026-08-31",
     "dryRun":  false,
     "signed":  true
 }
