@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.80",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/refs/heads/main/releases/AlfonsoTechSetup_v1.3.80.exe",
+    "version":  "1.3.81",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/main/releases/AlfonsoTechSetup_v1.3.81.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.80.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.81.exe"
                      ],
-    "sha256":  "7FBCD03E2664DA84B6EAFFDD77D0AC16547D59024B0357DCDD45A35E7F90AF6B",
-    "releaseNotes":  "Hepsiburada varyant gruplama, aynı ürün koduyla farklı renk ekleme ve stoklu ürünleri panelden satışa açma iyileştirmeleri.",
+    "sha256":  "C041E81D09318B60FF339BAE61304C42291EDDBF15E06213069821E2EE24A102",
+    "releaseNotes":  "Hepsiburada satışa açma işleminde stok ve fiyat önce güncellenir; uygun varyantlar güvenle aktif edilir. Güncelleme kontrol adresi iyileştirildi.",
     "mandatory":  false,
     "releaseDate":  "2026-09-04",
     "dryRun":  false,
