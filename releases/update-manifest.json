@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.3.86",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/main/releases/AlfonsoTechSetup_v1.3.86.exe",
+    "version":  "1.3.87",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/main/releases/AlfonsoTechSetup_v1.3.87.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.86.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.87.exe"
                      ],
-    "sha256":  "BF1982FCA48AD74B8D0202AFAE6DC3D568D198F1D373055537FA0A202622805C",
-    "releaseNotes":  "N11 varyant SKU cakisma ve Hepsiburada katalog hata takibi duzeltildi.",
+    "sha256":  "8715C603DFBADEB2B8F7364E5A9ED48C6089B7E24553927DA04CA6BD6FB5155D",
+    "releaseNotes":  "Pazaryeri varyant, Hepsiburada katalog ve N11 fatura gonderim duzeltmeleri.",
     "mandatory":  false,
-    "releaseDate":  "2026-09-05",
+    "releaseDate":  "2026-09-06",
     "dryRun":  false,
     "signed":  true
 }
