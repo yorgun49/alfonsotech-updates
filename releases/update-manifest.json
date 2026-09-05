@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.3.81",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/main/releases/AlfonsoTechSetup_v1.3.81.exe",
+    "version":  "1.3.82",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/main/releases/AlfonsoTechSetup_v1.3.82.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.81.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.82.exe"
                      ],
-    "sha256":  "C041E81D09318B60FF339BAE61304C42291EDDBF15E06213069821E2EE24A102",
-    "releaseNotes":  "Hepsiburada satışa açma işleminde stok ve fiyat önce güncellenir; uygun varyantlar güvenle aktif edilir. Güncelleme kontrol adresi iyileştirildi.",
+    "sha256":  "E91691656399D573C5CC2DCB776F09C9676A91C9E4B17A6BECD3D221295B2404",
+    "releaseNotes":  "N11 siparis cekme duzeltmesi, kargo barkodu yazdirma iyilestirmesi ve Hepsiburada varyant duzeltmeleri.",
     "mandatory":  false,
-    "releaseDate":  "2026-09-04",
+    "releaseDate":  "2026-09-05",
     "dryRun":  false,
     "signed":  true
 }
