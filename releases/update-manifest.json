@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.83",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/main/releases/AlfonsoTechSetup_v1.3.83.exe",
+    "version":  "1.3.84",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/main/releases/AlfonsoTechSetup_v1.3.84.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.83.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.84.exe"
                      ],
-    "sha256":  "F2D13AFCA16B1C14D24BD093ABAB703C4F0C155BBA4A587F4652D11E25E4E9D5",
-    "releaseNotes":  "N11 siparis cekme API tarih formati duzeltildi; N11 siparisleri artik uygulamaya aktarilir.",
+    "sha256":  "31C9EDF5664D6AD8625D130EAEEEC5EF6DD460073B0B482B41F132575E1B9CD8",
+    "releaseNotes":  "N11 siparislerinde musteri, pazaryeri durumu ve siparis kalemi eslemesi duzeltildi; e-fatura akisi onarildi.",
     "mandatory":  false,
     "releaseDate":  "2026-09-05",
     "dryRun":  false,
