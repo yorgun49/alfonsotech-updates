@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.3.87",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/main/releases/AlfonsoTechSetup_v1.3.87.exe",
+    "version":  "1.3.89",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/main/releases/AlfonsoTechSetup_v1.3.89.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.87.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.89.exe"
                      ],
-    "sha256":  "8715C603DFBADEB2B8F7364E5A9ED48C6089B7E24553927DA04CA6BD6FB5155D",
-    "releaseNotes":  "Pazaryeri varyant, Hepsiburada katalog ve N11 fatura gonderim duzeltmeleri.",
+    "sha256":  "EE872A1BFED32F6B34BB6C32D9D30A3DB5DA563A82E24ED8752253C68E8C4E1D",
+    "releaseNotes":  "Hepsiburada HB SKU varyant eşleştirmesi ve operasyon paneli iyileştirmeleri.",
     "mandatory":  false,
-    "releaseDate":  "2026-09-06",
+    "releaseDate":  "2026-09-08",
     "dryRun":  false,
     "signed":  true
 }
