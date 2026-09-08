@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.3.89",
-    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/main/releases/AlfonsoTechSetup_v1.3.89.exe",
+    "version":  "1.3.90",
+    "url":  "https://raw.githubusercontent.com/yorgun49/alfonsotech-updates/main/releases/AlfonsoTechSetup_v1.3.90.exe",
     "fallbackUrls":  [
-                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.89.exe"
+                         "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.3.90.exe"
                      ],
-    "sha256":  "EE872A1BFED32F6B34BB6C32D9D30A3DB5DA563A82E24ED8752253C68E8C4E1D",
-    "releaseNotes":  "Hepsiburada HB SKU varyant eşleştirmesi ve operasyon paneli iyileştirmeleri.",
+    "sha256":  "DD7E5200D159502841AB78BCFDAF1E97BA74BAF5903196A6F53CA771F4A98935",
+    "releaseNotes":  "Hepsiburada fatura linki gönderiminde paket-sipariş eşleştirmesi düzeltildi.",
     "mandatory":  false,
     "releaseDate":  "2026-09-08",
     "dryRun":  false,
