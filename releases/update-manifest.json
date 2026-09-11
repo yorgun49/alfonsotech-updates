@@ -4,7 +4,7 @@
     "fallbackUrls":  [
                          "https://pub-c5998b126987416a887d82f7ec6d6556.r2.dev/releases/AlfonsoTechSetup_v1.4.11.exe"
                      ],
-    "sha256":  "4F0F03E4B140C6417BCDBFBB33D425585427C3ECA136393CDCCB48F0E30B275B",
+    "sha256":  "B33405046ED2C0DF2902CB21FBE5ADB25834D3A9007D49489215FCD6E27D8341",
     "releaseNotes":  "v1.4.11 surumu yayinlandi.",
     "mandatory":  false,
     "releaseDate":  "2026-09-12",
